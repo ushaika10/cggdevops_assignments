@@ -1,0 +1,5 @@
+#!/bin/env bash
+
+#display the os version on the vm
+
+cat /etc/os-release
