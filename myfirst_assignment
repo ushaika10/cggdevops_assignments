@@ -9,3 +9,5 @@ who
 whoami
 
 uname -a
+
+hostname -I
