@@ -1,0 +1,16 @@
+#!/bin/env bash
+# This is my first git file - Moin
+#display the os version on the vm
+
+cat /etc/os-release
+
+who
+
+whoami
+
+uname -a
+
+hostname -I
+
+cat /etc/shells
+
