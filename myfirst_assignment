@@ -3,3 +3,9 @@
 #display the os version on the vm
 
 cat /etc/os-release
+
+who
+
+whoami
+
+uname -a
