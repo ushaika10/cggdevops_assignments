@@ -11,3 +11,5 @@ whoami
 uname -a
 
 hostname -I
+
+cat /etc/hostname
