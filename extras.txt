@@ -1,4 +1,5 @@
-!/bin/env bash
+git init
+git config
 
 git add.
 git commit -m "filename"
