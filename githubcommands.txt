@@ -1,0 +1,31 @@
+git config --global user.name "Your Name" - Set your Git username.
+
+git config --global user.email "your.email@example.com" - Set your Git email.
+
+git init - Initialize a new Git repository.
+
+git clone (repo_url) - Clone an existing repository.
+
+git status - Check the status of changes.
+
+git add  - Stage a specific file for commit.
+
+git add . - Stage all changes.
+
+git commit -m "message" - Commit changes with a message.
+
+git push origin main - Push commits to the main branch on GitHub.
+
+git pull origin main - Fetch and merge latest changes from GitHub.
+
+git branch - List all branches.
+
+git branch (branch_name) - Create a new branch.
+
+git checkout (branch_name) - Switch to a branch.
+
+git log - View commit history.
+
+git rm -r  - Remove a file from the repository.
+
+git remote -v - Show configured remote repositories.
