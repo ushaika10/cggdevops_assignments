@@ -1,0 +1,11 @@
+git init
+git config
+
+git add.
+git commit -m "filename"
+
+git diff
+git status
+git push
+git pull 
+git 
