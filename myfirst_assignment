@@ -12,4 +12,6 @@ uname -a
 
 hostname -I
 
+ip a
+
 cat /etc/hostname

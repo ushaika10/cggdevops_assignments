@@ -1,0 +1,30 @@
+sudo apt  install gh  # version 2.45.0-1ubuntu0.1
+gh --version
+gh --help
+
+sudo mkdir assgn_001
+cd assgn_001
+ls -lta
+git config --list
+
+gh auth login --web
+sudo gh repo fork https://github.com/ushaika10/cggdevops_assignments.git --clone
+
+ls -lta
+cd cggdevops_assignments/
+ls -lta
+sudo git status
+sudo git log
+
+cat myfirst_assignment
+diff myfirst_assignment ../../CGCDevOps/mycommands
+
+sudo vim myfirst_assignment
+sudo git status
+sudo git diff .
+
+sudo git add .
+sudo git status
+sudo git log
+
+
