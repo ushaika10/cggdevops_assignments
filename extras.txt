@@ -1,11 +1,15 @@
-git init
-git config
+# sets up Git with your name
 
-git add.
-git commit -m "filename"
+git config --global user.name "<Your-Full-Name>"
 
-git diff
-git status
-git push
-git pull 
-git 
+# sets up Git with your email
+
+git config --global user.email "<your-email-address>"
+
+
+
+#clone a repo
+
+$ git clone https://github.com/<repo-url>
+
+
