@@ -11,6 +11,7 @@ then
 else
 	echo "Flie not found on the server"
 	exit 1 
+fi
 
 #get the hostanme of the machine.
 
